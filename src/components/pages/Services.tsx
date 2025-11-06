@@ -1,6 +1,4 @@
-import react from 'react';
-
-import { Box, Text , Heading , Stack, Link, HStack } from '@chakra-ui/react';
+import { Box, Text , Heading , HStack } from '@chakra-ui/react';
 
 const Services = () => {    
     return (
