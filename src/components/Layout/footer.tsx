@@ -26,7 +26,7 @@ export function Footer() {
                 Parashwanath Enterprises
               </Text>
             </Flex>
-            <Text color="gray.400">
+            <Text color="gray.600">
               Leading manufacturer of sustainable paper reels, committed to
               quality and environmental responsibility.
             </Text>
